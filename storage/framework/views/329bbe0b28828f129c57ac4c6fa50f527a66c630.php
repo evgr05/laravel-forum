@@ -1,0 +1,1 @@
+<?php /**PATH D:\laravel.local\resources\views/admin.blade.php ENDPATH**/ ?>
